@@ -5,6 +5,9 @@ package com.itheima.B;
  * @date 2021/7/18
  */
 public class Demo_B {
-    private Integer id;
-    private String name;
+    public static void main(String[] args) {
+        //7.15
+        System.out.println("7.15");
+        System.out.println("7.15 修改");
+    }
 }

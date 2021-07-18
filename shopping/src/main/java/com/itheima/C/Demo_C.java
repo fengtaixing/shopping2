@@ -6,6 +6,8 @@ package com.itheima.C;
  */
 public class Demo_C {
     public static void main(String[] args) {
+        //7.18
         System.out.println("C分支");
+        System.out.println("7.18");
     }
 }
