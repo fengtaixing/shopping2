@@ -8,5 +8,6 @@ public class Demo_B {
     public static void main(String[] args) {
         //7.15
         System.out.println("7.15");
+        System.out.println("7.15 修改");
     }
 }
