@@ -7,6 +7,8 @@ package com.itheima.B;
 public class Demo_B {
     private Integer id;
     private String name;
+    private Integer age;
+    private Integer sex;
 
     public Demo_B(Integer id, String name) {
         this.id = id;
