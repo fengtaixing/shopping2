@@ -9,9 +9,10 @@ public class Demo_C {
         //7.18
         System.out.println("C分支");
         System.out.println("7.18");
-        System.out.println("分支111,c");
+        System.out.println("分支7.15,c");
     }
     public  void test(){
-        System.out.println("分支111,111");
+        System.out.println("分支7.15,111");
+        System.out.println("分支7.15,222");
     }
 }

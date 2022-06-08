@@ -6,18 +6,10 @@ package com.itheima.B;
  */
 public class Demo_B {
     public static void main(String[] args) {
-        System.out.println("不参加");
-        System.out.println("不参加111");
-        System.out.println("分支111,222");
-        System.out.println("分支111,333");
-        System.out.println("==========================");
         System.out.println("分支7.15--");
         System.out.println("分支7.15==");
         System.out.println("分支7.15??");
-        System.out.println("==========================");
-        System.out.println("分支111--");
-        System.out.println("分支111==");
-        System.out.println("分支111??");
+
     }
     public  void test(){
         System.out.println("分支7.15??");
