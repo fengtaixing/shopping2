@@ -11,4 +11,7 @@ public class Demo_C {
         System.out.println("7.18");
         System.out.println("分支111,c");
     }
+    public  void test(){
+        System.out.println("分支111,111");
+    }
 }

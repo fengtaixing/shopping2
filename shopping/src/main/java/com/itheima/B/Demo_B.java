@@ -15,4 +15,7 @@ public class Demo_B {
         System.out.println("分支111==");
         System.out.println("分支111??");
     }
+    public  void test(){
+        System.out.println("分支7.15??");
+    }
 }
