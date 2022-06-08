@@ -8,6 +8,7 @@ public class Demo_B {
     public static void main(String[] args) {
         //7.15
         System.out.println("你好");
+        System.out.println("你好，啥时间");
 
     }
 }
