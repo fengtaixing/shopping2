@@ -15,4 +15,10 @@ public class Demo_C {
         System.out.println("分支7.15,111");
         System.out.println("分支7.15,222");
     }
+
+    public  void test02(){
+        System.out.println("分支111,1");
+        System.out.println("分支111,2");
+        System.out.println("分支111,3");
+    }
 }
